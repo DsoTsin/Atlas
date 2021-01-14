@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Atlas", "Atlas.vcxproj", "{B10344BD-D49B-494A-B3D4-204E2BE63CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Debug|x64.ActiveCfg = Debug|x64
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Debug|x64.Build.0 = Debug|x64
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Debug|x86.Build.0 = Debug|Win32
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Release|x64.ActiveCfg = Release|x64
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Release|x64.Build.0 = Release|x64
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Release|x86.ActiveCfg = Release|Win32
+		{B10344BD-D49B-494A-B3D4-204E2BE63CAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC177281-656E-48AA-8B2C-7F0D374AA600}
+	EndGlobalSection
+EndGlobal
